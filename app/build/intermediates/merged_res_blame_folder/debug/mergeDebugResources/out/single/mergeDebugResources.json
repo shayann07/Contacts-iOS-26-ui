@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_keypad.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_keypad.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_calls.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_calls.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_back_arrow.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_search_bar_bg.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\search_bar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\layout_item_contact.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_contact_card_bg.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\contact_card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_profilepic.jpg.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\profilepic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_circle_gradient.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\circle_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_rounded_white_bg.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\rounded_white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_outline_heart.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_outline_heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\anim_slide_out_down.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\anim\\slide_out_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_circle_bg.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_avatar_circle.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\avatar_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_bg_circle_white.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\bg_circle_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_add2.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_add2.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_bottom_nav_bg.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\bottom_nav_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_heart_filled.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_heart_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_rounded_white_box.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\rounded_white_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_ic_contact.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\ic_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_edittext_bg.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\layout_fragment_new_contact.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\layout\\fragment_new_contact.xml"
+    },
+    {
+        "merged": "com.nayab.contactmnager.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.nayab.contactmnager.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\anim_slide_in_up.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-debug-34:\\drawable_rounded_gray_button.xml.flat",
+        "source": "C:\\Users\\shaya\\.gradle\\daemon\\8.13\\com.nayab.contactmnager.app-main-36:\\drawable\\rounded_gray_button.xml"
+    }
+]

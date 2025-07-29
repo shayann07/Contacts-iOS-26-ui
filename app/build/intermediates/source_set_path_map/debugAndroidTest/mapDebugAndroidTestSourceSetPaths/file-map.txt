@@ -1,0 +1,6 @@
+com.nayab.contactmnager.test.app-tracing-1.2.0-0 C:\Users\shaya\.gradle\caches\8.13\transforms\bfbd3b58a785ba57ccd4f6ae8cf0f428\transformed\tracing-1.2.0\res
+com.nayab.contactmnager.test.app-core-1.6.1-1 C:\Users\shaya\.gradle\caches\8.13\transforms\dbe4aa97467b6288a2f491323b93e816\transformed\core-1.6.1\res
+com.nayab.contactmnager.test.app-androidTest-2 D:\AndroidStudioProjects\Internship Projects\Contact-Manager\app\build\generated\res\resValues\androidTest\debug
+com.nayab.contactmnager.test.app-mergeDebugAndroidTestResources-3 D:\AndroidStudioProjects\Internship Projects\Contact-Manager\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.nayab.contactmnager.test.app-mergeDebugAndroidTestResources-4 D:\AndroidStudioProjects\Internship Projects\Contact-Manager\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.nayab.contactmnager.test.app-debugAndroidTest-5 D:\AndroidStudioProjects\Internship Projects\Contact-Manager\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

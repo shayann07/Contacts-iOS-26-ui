@@ -1,0 +1,37 @@
+com.nayab.contactmnager.app-coordinatorlayout-1.1.0-0 C:\Users\shaya\.gradle\caches\8.13\transforms\0632c22cc6c9706d682a7c80f19445a6\transformed\coordinatorlayout-1.1.0\res
+com.nayab.contactmnager.app-core-viewtree-1.0.0-1 C:\Users\shaya\.gradle\caches\8.13\transforms\0e8fac955300fc247940bb7f4253f2f3\transformed\core-viewtree-1.0.0\res
+com.nayab.contactmnager.app-activity-1.10.1-2 C:\Users\shaya\.gradle\caches\8.13\transforms\10e91b3d78a5f82c28ac237833101fab\transformed\activity-1.10.1\res
+com.nayab.contactmnager.app-startup-runtime-1.1.1-3 C:\Users\shaya\.gradle\caches\8.13\transforms\1ae7190a6becad1ec9d7abebd3c6bcb3\transformed\startup-runtime-1.1.1\res
+com.nayab.contactmnager.app-emoji2-1.3.0-4 C:\Users\shaya\.gradle\caches\8.13\transforms\27449bc355b0fd66593f9f79352022c6\transformed\emoji2-1.3.0\res
+com.nayab.contactmnager.app-drawerlayout-1.1.1-5 C:\Users\shaya\.gradle\caches\8.13\transforms\276dfec7f73b53fbb46bf15ab365754a\transformed\drawerlayout-1.1.1\res
+com.nayab.contactmnager.app-annotation-experimental-1.4.1-6 C:\Users\shaya\.gradle\caches\8.13\transforms\3079a123a1e158c2154e59fe4191bf5d\transformed\annotation-experimental-1.4.1\res
+com.nayab.contactmnager.app-lifecycle-viewmodel-2.6.2-7 C:\Users\shaya\.gradle\caches\8.13\transforms\30d1947417084cc092214900c90fb569\transformed\lifecycle-viewmodel-2.6.2\res
+com.nayab.contactmnager.app-appcompat-resources-1.7.1-8 C:\Users\shaya\.gradle\caches\8.13\transforms\3759a4ddc64758c49919697a156fbe86\transformed\appcompat-resources-1.7.1\res
+com.nayab.contactmnager.app-core-ktx-1.16.0-9 C:\Users\shaya\.gradle\caches\8.13\transforms\39776ef26e64a9a02c7d61284b8f585c\transformed\core-ktx-1.16.0\res
+com.nayab.contactmnager.app-lifecycle-livedata-2.6.2-10 C:\Users\shaya\.gradle\caches\8.13\transforms\44d686a9304dc120d7fd44c7a5044533\transformed\lifecycle-livedata-2.6.2\res
+com.nayab.contactmnager.app-glide-4.16.0-11 C:\Users\shaya\.gradle\caches\8.13\transforms\492c20ee02f34c448ddd53afa394d499\transformed\glide-4.16.0\res
+com.nayab.contactmnager.app-core-1.16.0-12 C:\Users\shaya\.gradle\caches\8.13\transforms\5236a1de10f758bff2f8a010d9e62c15\transformed\core-1.16.0\res
+com.nayab.contactmnager.app-lifecycle-process-2.6.2-13 C:\Users\shaya\.gradle\caches\8.13\transforms\5d7f0eb818876c03033ef25d25e17a0d\transformed\lifecycle-process-2.6.2\res
+com.nayab.contactmnager.app-recyclerview-1.1.0-14 C:\Users\shaya\.gradle\caches\8.13\transforms\5db053e760b754be6382b35b110d83a2\transformed\recyclerview-1.1.0\res
+com.nayab.contactmnager.app-cardview-1.0.0-15 C:\Users\shaya\.gradle\caches\8.13\transforms\6cf1f278580f393dc74ff3ac567816fe\transformed\cardview-1.0.0\res
+com.nayab.contactmnager.app-lifecycle-viewmodel-savedstate-2.6.2-16 C:\Users\shaya\.gradle\caches\8.13\transforms\8a67e2906af2349dd9657bd967551ebe\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.nayab.contactmnager.app-constraintlayout-2.2.1-17 C:\Users\shaya\.gradle\caches\8.13\transforms\9439bbb700636a44a05dd091c9a7b101\transformed\constraintlayout-2.2.1\res
+com.nayab.contactmnager.app-core-runtime-2.2.0-18 C:\Users\shaya\.gradle\caches\8.13\transforms\954cc4b658a2011fe38145a4ef9251b4\transformed\core-runtime-2.2.0\res
+com.nayab.contactmnager.app-profileinstaller-1.4.0-19 C:\Users\shaya\.gradle\caches\8.13\transforms\9895294b727a5e71c4b8198cae89a348\transformed\profileinstaller-1.4.0\res
+com.nayab.contactmnager.app-lifecycle-livedata-core-2.6.2-20 C:\Users\shaya\.gradle\caches\8.13\transforms\ad1e87afbbf8ad534c279e3c940f91b0\transformed\lifecycle-livedata-core-2.6.2\res
+com.nayab.contactmnager.app-savedstate-1.2.1-21 C:\Users\shaya\.gradle\caches\8.13\transforms\bbeb9aaf9f78f483195b7ddefdf7ad46\transformed\savedstate-1.2.1\res
+com.nayab.contactmnager.app-fragment-1.5.4-22 C:\Users\shaya\.gradle\caches\8.13\transforms\be0da6b2adf209a66da4e9c4b9d3cb8c\transformed\fragment-1.5.4\res
+com.nayab.contactmnager.app-tracing-1.2.0-23 C:\Users\shaya\.gradle\caches\8.13\transforms\bfbd3b58a785ba57ccd4f6ae8cf0f428\transformed\tracing-1.2.0\res
+com.nayab.contactmnager.app-viewpager2-1.0.0-24 C:\Users\shaya\.gradle\caches\8.13\transforms\d94f4d7d62d6c519469b729bde4edfc3\transformed\viewpager2-1.0.0\res
+com.nayab.contactmnager.app-emoji2-views-helper-1.3.0-25 C:\Users\shaya\.gradle\caches\8.13\transforms\da8571a89df954da8ecfd3e26cf1c50b\transformed\emoji2-views-helper-1.3.0\res
+com.nayab.contactmnager.app-appcompat-1.7.1-26 C:\Users\shaya\.gradle\caches\8.13\transforms\e240b4c4fcaf63ab148d8e697a1bbf6b\transformed\appcompat-1.7.1\res
+com.nayab.contactmnager.app-lifecycle-runtime-2.6.2-27 C:\Users\shaya\.gradle\caches\8.13\transforms\e2f96a8199dd9a82b3ea5d199050f5e6\transformed\lifecycle-runtime-2.6.2\res
+com.nayab.contactmnager.app-material-1.12.0-28 C:\Users\shaya\.gradle\caches\8.13\transforms\e3d7bc25efa6fa94b82d824e95642f30\transformed\material-1.12.0\res
+com.nayab.contactmnager.app-transition-1.5.0-29 C:\Users\shaya\.gradle\caches\8.13\transforms\fd02f5f47c4c4ceed69ce599d146e1d6\transformed\transition-1.5.0\res
+com.nayab.contactmnager.app-pngs-30 D:\AndroidStudioProjects\Internship Projects\Contact-Manager\app\build\generated\res\pngs\debug
+com.nayab.contactmnager.app-resValues-31 D:\AndroidStudioProjects\Internship Projects\Contact-Manager\app\build\generated\res\resValues\debug
+com.nayab.contactmnager.app-packageDebugResources-32 D:\AndroidStudioProjects\Internship Projects\Contact-Manager\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.nayab.contactmnager.app-packageDebugResources-33 D:\AndroidStudioProjects\Internship Projects\Contact-Manager\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.nayab.contactmnager.app-debug-34 D:\AndroidStudioProjects\Internship Projects\Contact-Manager\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.nayab.contactmnager.app-debug-35 D:\AndroidStudioProjects\Internship Projects\Contact-Manager\app\src\debug\res
+com.nayab.contactmnager.app-main-36 D:\AndroidStudioProjects\Internship Projects\Contact-Manager\app\src\main\res
